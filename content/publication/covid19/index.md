@@ -6,4 +6,5 @@ publication_types: ["3"]
 abstract: ""
 featured: true
 publication: "arXiv preprint arXiv:2004.09087"
+url: "https://arxiv.org/abs/2004.09087"
 ---
