@@ -1,0 +1,20 @@
+# Theme metadata
+name = "lizardietheme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#FF9900"
+primary_light = "#CCFF66"
+primary_dark = "#990099"
+
+# Menu
+menu_primary = "#333333"
+menu_text = "#fff"
+menu_text_active = "#FF9900"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
