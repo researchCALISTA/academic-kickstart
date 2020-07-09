@@ -65,17 +65,3 @@ user_groups:
 # - Grad Students
 # - Visitors
 ---
-
-We aim to get researchers together from different disciplinesto study the pulse of the urban landscape acrossultiple temporal scales through a multitude of theories, methods and data sources.
-
-# Our goals
-
-1. To facilitate applied research in regional science with a specific focus on spatio-temporal relationships at an extensive micro-level.
-
-2. To promote the use of Big Data methods and the use of combined datasets from a variety of fields in societal research through interdisciplinary cross-pollination.
-
-3. To study processes of socio-economic characteristics as well as mobility and flows of individuals, ideas, capital, vehicles, etc. with a particular focus on urban processes.
-
-4. To understand the role of different levels of time and space ranging from individual, neighbourhood, urban area to region as well as minutes, hours, days, weeks, months and years.
-
-5. To generate theory, methods and findings that can be applied in society and that is policy relevant
