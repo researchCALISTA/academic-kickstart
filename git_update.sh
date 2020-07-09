@@ -27,7 +27,3 @@ cd ..
 pwd
 /Users/lizardie/Dropbox/CODES/Hugo/calista
 git commit -m "add incl themes repo "
-
-#usr  researchCALISTA
-#pwd  Gurka2019
-#repo https://github.com/researchCALISTA/academic-kickstart.git/
