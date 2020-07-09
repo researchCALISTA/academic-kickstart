@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Marina Toger
 
 # Username (this should match the folder name)
 authors:
@@ -10,33 +10,38 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Researcher at Department of Social and Economic Geography
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Uppsala University
+  url: "https://uu.se/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am interested in analysing dynamic urban phenomena, specifically complex interactivity of spatial processes in cities.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Urban Dynamics
+- data analytics
+- GIS
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
+  - course: PostDoc in Economics
+    institution: Tel Aviv University
+    year: 2017
+  - course: PhD in Urban Studies
+    institution: Technion
+    year: 2016
+  # - course: MA in Urban Studies
+  #   institution: Technion
+  #   year: 2012
+  # - course: BArch in Architecture and Town Planning
+  #   institution: Technion
+  #   year: 2001
+  # - course: 1 year of studies in Transport Engineering, Bridges and Tunnels
+  #   institution: MIIT
+  #   year: 1993
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -44,16 +49,29 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  #link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:marina.toger@kultgeog.uu.se'
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/lizardie
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.com/citations?user=LKmmC00AAAAJ&hl=en&oi=ao
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/lizardie
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/researchCALISTA
+- icon: researchgate
+  icon-pack: ai
+  link: https://www.researchgate.net/profile/Marina_Toger
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4903-6971
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/marina-toger-29030320/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,9 +85,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Marina Toger is a researcher of spatial analysis at the CALISTA - Centre for Applied Spatial Analysis. Her research interests include analysing dynamic urban phenomena, specifically complex interactivity of spatial processes in cities. As part of the CALISTA research team at Uppsala University analysing human mobility in urban areas using mobile phone NDRs and other spatiotemporal data sets. Also continuing research on spatial distribution of law enforcement and its interaction with criminal activities.
