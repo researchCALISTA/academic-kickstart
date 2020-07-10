@@ -1,15 +1,15 @@
 ---
-title: Calista Core Setup
-summary: Description of the setup.
+title: Calista Cluster Core Setup
+summary: Description of the computation cluster setup.
 date: "2020-07-10"
 
-reading_time: false  # Show estimated reading time?
+reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
 authors:
-- alexeysiretskiy 
+- alexeysiretskiy
 
 
 # Optional header image (relative to `static/img/` folder).
