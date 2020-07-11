@@ -3,7 +3,7 @@
 
 title: "2019 Cruise Tourism Conference"
 subtitle: ""
-summary: ""
+summary: "Sustainable Tourism in the Digital World conference at Visby, Gotland"
 authors: []
 tags: []
 categories: []
@@ -25,5 +25,6 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [sustainable-gotland]
 ---
+https://www.fek.uu.se/research/sustainable-tourism
