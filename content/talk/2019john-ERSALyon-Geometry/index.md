@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "2019 John talks at Kurume University, Japan"
+title: "2019john ERSALyon Geometry"
 event:
 event_url:
 location:
@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-07-11T23:51:58+02:00
-date_end: 2020-07-11T23:51:58+02:00
+date: 2020-07-11T23:59:31+02:00
+date_end: 2020-07-11T23:59:31+02:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-07-11T23:51:58+02:00
+publishDate: 2020-07-11T23:59:31+02:00
 
 authors: []
 tags: []
@@ -30,7 +30,7 @@ tags: []
 featured: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
