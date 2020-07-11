@@ -3,7 +3,7 @@
 
 title: "2019 Johanna DF"
 subtitle: ""
-summary: ""
+summary: " 11 January 2019 Johanna Jokinen defended her thesis!"
 authors: []
 tags: []
 categories: []
@@ -15,9 +15,9 @@ draft: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
+image: #2019-Johanna-DF.jpg
+  caption: "Image credit: John Östh"
+  focal_point: Left
   preview_only: false
 
 # Projects (optional).
@@ -27,3 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+![2019 Johanna DF](2019-Johanna-DF.jpg)
