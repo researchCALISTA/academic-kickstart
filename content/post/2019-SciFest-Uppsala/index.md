@@ -27,3 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+![John Östh and Karin Ågren interviewed for the radio](2019-JohnKarin-Radio.jpg)

@@ -27,3 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+![John giving a talk about Hägerstrand at ERSA Cork Lyon](2018-John-Cork.jpg)

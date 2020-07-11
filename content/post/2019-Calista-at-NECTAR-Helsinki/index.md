@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "2019 Kati DF"
+title: "2019 Calista at NECTAR Helsinki"
 subtitle: ""
-summary: "April 2019 Kati Kadarik defended her thesis!"
+summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-07-12T00:02:51+02:00
-lastmod: 2020-07-12T00:02:51+02:00
+date: 2020-07-12T00:30:16+02:00
+lastmod: 2020-07-12T00:30:16+02:00
 featured: false
 draft: false
 
@@ -27,4 +27,3 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-![2019 Kati DF](2019_Kati_DF.jpg)
