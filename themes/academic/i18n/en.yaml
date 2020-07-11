@@ -32,17 +32,6 @@
 - id: edit_page
   translation: Edit this page
 
-# Themes
-
-- id: theme_light
-  translation: Light
-
-- id: theme_dark
-  translation: Dark
-
-- id: theme_auto
-  translation: Automatic
-
 # Buttons
 
 - id: btn_preprint
@@ -188,7 +177,7 @@
 - id: open_project_site
   translation: Go to Project Site
 
-# Content types for default archive page titles and search results
+# Default titles for archive pages
 
 - id: posts
   translation: Posts
@@ -201,9 +190,6 @@
 
 - id: projects
   translation: Projects
-
-- id: slides
-  translation: Slides
 
 # Search
 
