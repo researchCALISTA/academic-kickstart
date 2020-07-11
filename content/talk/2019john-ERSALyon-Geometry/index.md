@@ -30,7 +30,7 @@ tags: []
 featured: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -66,3 +66,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+John Östh giving a talk "Geometry and the Friction of Distance - A Mathematical Analysis of the Decay Function in Spatial Accessibility Measures"
+![John ERSALyon Geometry talk](2019John_ERSA_Lyon.jpg)

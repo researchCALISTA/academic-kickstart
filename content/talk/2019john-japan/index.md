@@ -66,3 +66,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+2019 John talks at Kurume University, Japan
+![John in Japan](2019John_Japan2.jpg)
