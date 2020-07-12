@@ -3,10 +3,11 @@
 
 title: "Sustainable Gotland"
 summary: ""
-authors: []
-tags: []
-categories: []
-date: 2020-07-12T01:01:40+02:00
+authors: [admin]
+tags: [conference]
+categories: [conference]
+date: 2020-02-28T17:01:40+02:00
+profile: false  # Show author profile?
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,3 +40,11 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+**Sustainable visits - between the map and the tourists reality.** The research project took place within the growth program Sustainable Gotland, where major financiers were Region Gotland and Tillväxtverket, and with support from Uppsala University. For more information about the project, follow this link [Hållbara Gotland](https://tillvaxtverket.se/amnesomraden/regional-kapacitet/hallbara-gotland.html) . (in Swedish).
+
+**Sustainable visits project team** - Uppsala University:
+- Sabine Gebert Persson (project leader) dep. of business studies,
+- Karin Ågren dep. of economic history,
+- John Östh and Marina Toger both from dep. of cultural geography and CALISTA lab,
+- Ulrika Persson-Fischier and Klas Palm from the dep. of engineering sciences, division of Industrial Engineering and Management, and
+- Rickard Grassman from Stockholm Business School.
