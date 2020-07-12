@@ -4,7 +4,7 @@
 title: "2019 SciFest Uppsala"
 subtitle: ""
 summary: ""
-authors: []
+authors: [admin]
 tags: []
 categories: []
 date: 2020-07-12T00:05:41+02:00
