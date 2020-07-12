@@ -8,8 +8,9 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-authors:
-- alexeysiretskiy
+authors: [alexeysiretskiy]
+
+#- alexeysiretskiy
 
 
 # Optional header image (relative to `static/img/` folder).

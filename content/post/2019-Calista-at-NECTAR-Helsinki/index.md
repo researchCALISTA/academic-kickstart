@@ -4,13 +4,14 @@
 title: "2019 Calista at NECTAR Helsinki"
 subtitle: ""
 summary: ""
-authors: []
+authors: [admin]
 tags: []
 categories: []
 date: 2020-07-12T00:30:16+02:00
 lastmod: 2020-07-12T00:30:16+02:00
 featured: false
 draft: false
+profile: false  # Show author profile?
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -25,5 +26,5 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [pa-ratt-vag]
 ---

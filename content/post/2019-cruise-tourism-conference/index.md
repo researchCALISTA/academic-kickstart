@@ -4,13 +4,14 @@
 title: "2019 Cruise Tourism Conference"
 subtitle: ""
 summary: "Sustainable Tourism in the Digital World conference at Visby, Gotland"
-authors: []
+authors: [admin]
 tags: []
 categories: []
 date: 2020-07-11T23:56:17+02:00
 lastmod: 2020-07-11T23:56:17+02:00
 featured: false
 draft: false
+profile: false  # Show author profile?
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

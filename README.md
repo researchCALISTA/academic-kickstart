@@ -5,7 +5,7 @@
 The website is here: https://researchcalista.netlify.app/
 
 
-The website desing was very much inspired by the website of a colleague [Thomas De Graaff](https://thomasdegraaff.nl/)
+The website design was very much inspired by the website of a colleague [Thomas De Graaff](https://thomasdegraaff.nl/)
 
 
 For the original George Cushen's **Academic Kickstart** README see `README_Academic_kickstart.md`

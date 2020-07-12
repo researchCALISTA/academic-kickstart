@@ -4,13 +4,14 @@
 title: "2019 Johanna DF"
 subtitle: ""
 summary: " 11 January 2019 Johanna Jokinen defended her thesis!"
-authors: []
-tags: []
-categories: []
-date: 2020-07-12T00:08:15+02:00
+authors: [admin]
+tags: [PhD]
+categories: [research]
+date: 2019-01-11T15:00:00+02:00
 lastmod: 2020-07-12T00:08:15+02:00
 featured: false
 draft: false
+profile: false  # Show author profile?
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

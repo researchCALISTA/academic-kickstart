@@ -4,13 +4,14 @@
 title: "2019 Kati DF"
 subtitle: ""
 summary: "April 2019 Kati Kadarik defended her thesis!"
-authors: []
+authors: [admin]
 tags: []
 categories: []
 date: 2020-07-12T00:02:51+02:00
 lastmod: 2020-07-12T00:02:51+02:00
 featured: false
 draft: false
+profile: false  # Show author profile?
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
