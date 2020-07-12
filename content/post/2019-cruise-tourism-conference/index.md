@@ -15,11 +15,11 @@ profile: false  # Show author profile?
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image: "IMG_8509.jpeg"
-  caption: "John Östh explaining our analysis"
-  focal_point: "left"
-  preview_only: false
+# # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+# image: "confpicsjoao/IMG_8509.jpeg"
+#   caption: "John Östh explaining our analysis"
+#   focal_point: "Left"
+#   preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -36,7 +36,7 @@ Speakers:
 - John Östh, Uppsala University
 - Peter Nijkamp, Vrije Universiteit Amsterdam
 
-Image gallery (photos credit João Romão):
+Image gallery (photos by João Romão):
 {{< gallery album="confpicsjoao" >}}
 
 Video Film from the conference workshop in Visby on 26 September 2019 : {{< youtube 2c2xLt7GX_g >}}
