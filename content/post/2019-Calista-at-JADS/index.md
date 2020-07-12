@@ -37,3 +37,4 @@ After the workshop activities:
 <img src="2019boat_trip_JADS.jpeg" width="300" />
 <img src="2019boat_trip2_JADS.jpeg" width="300" />
 <img src="2019boat_trip3_JADS.jpg" width="300" />
+<img src="2019walk_JADS.jpeg" width="300" />
