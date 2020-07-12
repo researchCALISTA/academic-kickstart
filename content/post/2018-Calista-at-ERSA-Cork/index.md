@@ -17,8 +17,8 @@ profile: false  # Show author profile?
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "John giving a talk about Hägerstrand at ERSA Cork Lyon"
+  focal_point: "Right"
   preview_only: false
 
 # Projects (optional).
@@ -28,4 +28,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: [pa-ratt-vag]
 ---
-![John giving a talk about Hägerstrand at ERSA Cork Lyon](2018-John-Cork.jpg)
+#### ![John giving a talk about Hägerstrand at ERSA Cork Lyon](2018-John-Cork.jpg)
