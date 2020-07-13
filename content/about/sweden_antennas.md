@@ -29,7 +29,7 @@ projects: []
 ---
 
 
-Currently we possess a unique antennas dataset consisting of about 100.000
+We possess a unique dataset currently consisting of about 100.000
 unique mobile (77 thousands of 3G and 23 thosands 4G) antennas.
 
 We also know "the history of antennas" and can visualize how the population of
