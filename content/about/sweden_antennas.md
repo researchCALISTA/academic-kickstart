@@ -36,9 +36,5 @@ We also know "the history of antennas" and can visualize how the population of
 antennas evolve  in time, providing mobile network coverage to the whole
 country.
 
-<figure class="figure">
-<figcaption class="figure-caption">Mobile antennas 3G(blue) and 4G(black)
-distribution over country.</figcaption>
-  <img src="sweden_antennas_coverage.png" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+{{< figure src="sweden_antennas_coverage.png"  width=400 caption="Mobile antennas 3G(blue) and 4G(black)  43 distribution over country"  >}}
 
-</figure>
