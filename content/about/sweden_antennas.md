@@ -30,9 +30,15 @@ projects: []
 
 
 Currently we possess a unique antennas dataset consisting of about 100.000
-unique mobile (3G and 4G) antennas.
+unique mobile (77 thousands of 3G and 23 thosands 4G) antennas.
 
 We also know "the history of antennas" and can visualize how the population of
 antennas evolve  in time, providing mobile network coverage to the whole
 country.
-![Antennas-Coverage](sweden_antennas_coverage.png)
+
+<figure class="figure">
+<figcaption class="figure-caption">Mobile antennas 3G(blue) and 4G(black)
+distribution over country.</figcaption>
+  <img src="sweden_antennas_coverage.png" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+
+</figure>
