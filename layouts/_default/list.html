@@ -17,16 +17,20 @@
       {{ $link = . }}
       {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
     {{ end }}
-    <div class='col-md-6 card'>
-      <h2><a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ .Title }}</a></h2>
-      <div class="article-style">
-        {{ if .Params.summary }}
-          {{ .Params.summary | plainify | emojify }}
-        {{ else if .Params.abstract }}
-          {{ .Params.abstract | plainify | emojify | truncate 250 }}
-        {{ else if .Summary }}
-          {{ .Summary | plainify | emojify }}
-        {{ end }}
+    <div class='col-md-6'>
+      <div class='card'>
+	<div class="card-body">
+	 <h2><a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ .Title }}</a></h2>
+         <div class="article-style">
+           {{ if .Params.summary }}
+             {{ .Params.summary | plainify | emojify }}
+           {{ else if .Params.abstract }}
+             {{ .Params.abstract | plainify | emojify | truncate 250 }}
+           {{ else if .Summary }}
+             {{ .Summary | plainify | emojify }}
+           {{ end }}
+         </div>
+        </div>
       </div>
     </div>
   {{ end }}
