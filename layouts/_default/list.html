@@ -10,7 +10,7 @@
   <div class='container'>
   <div class='row'>
   {{ $paginator := .Paginate .Data.Pages }}
-  {{ range $paginator.Pages }}
+  {{ range $paginator.Pages.ByWeight }}
     {{ $link := .RelPermalink }}
     {{ $target := "" }}
     {{ with .Params.external_link }}
