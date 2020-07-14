@@ -1,17 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Mobile antennas"
-subtitle: "Country coverage"
-summary: "Out dataset contains more than 100000 mobile antennas, covering whole Sweden"
+title: "Our Dataset"
+subtitle: ""
+summary: "Our dataset is on the Big Data scale yielding 30TB and more than 1
+million unique users"
 authors: [alexeysiretskiy]
 tags: []
 categories: []
-date: 2020-07-13T13:05:45+02:00
-lastmod: 2020-07-13T13:05:45+02:00
+date: 2020-07-14T12:38:18+02:00
+lastmod: 2020-07-14T12:38:18+02:00
 featured: false
 draft: false
-weight: 30
+weight: 20
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -28,14 +29,11 @@ image:
 projects: []
 ---
 
+We are operating on the TB scale, giving us unique opportunity to conduct
+research on the national scale. 
 
-We possess a unique dataset currently consisting of about 100.000
-mobile (77 thousands of 3G and 23 thosands 4G) antennas,
-yielding approximately 10000 spatially separated  masts.
-
-We also know "the history of antennas" and can visualize how the population of
-antennas evolve  in time, providing mobile network coverage to the whole
-country.
-
-{{< figure src="sweden_antennas_coverage.png"  width=400 caption="Mobile antennas 4G(pale blue) and 3G(pale red)  distribution over country"  >}}
+At our hands more than 1 million unique users,
+passively sharing their geolocation data on 5 minutes interval. 
+The whole dataset size is appoaching 30 TB and increasing on 15GB of compressed
+data on daily basis. 
 
