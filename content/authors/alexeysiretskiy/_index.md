@@ -24,8 +24,8 @@ bio:
 
 interests:
 - data analysis
-- statistical physics
-- web design
+- programming
+- statistical methods
 - algorithm development
 
 education:
