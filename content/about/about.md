@@ -1,21 +1,37 @@
-+++
-# About widget.
-# widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-#  active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear in.
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title = "About"
+title: "About Calista Project"
+subtitle: ""
+summary: "We aim to get researchers together from different disciplines to study the pulse of the urban landscape across multiple temporal scales through a multitude of theories, methods and data sources."
+authors: []
+tags: []
+categories: []
+date: 2020-07-15T08:58:06+02:00
+lastmod: 2020-07-15T08:58:06+02:00
+featured: false
+draft: false
+weight: 10
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
 
-# Choose the user profile to display
-# This should be the username of a profile in your `content/authors/` folder.
-# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
-author = "calistacentre"
-+++
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+
 
 ## The vision
 
-We aim to get researchers together from different disciplinesto study the pulse of the urban landscape acrossultiple temporal scales through a multitude of theories, methods and data sources.
+We aim to get researchers together from different disciplines to study the pulse of the urban landscape across multiple temporal scales through a multitude of theories, methods and data sources.
 
 ## Our goals
 
