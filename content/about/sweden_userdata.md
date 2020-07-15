@@ -30,10 +30,11 @@ projects: []
 ---
 
 We are operating on the TB scale, giving us unique opportunity to conduct
-research on the national scale. 
+research on the national scale.
 
-At our hands more than 1 million unique users,
-passively sharing their geolocation data on 5 minutes interval. 
+At our hands a large amount of
+<!-- more than 1 million  -->
+unique users,
+passively sharing their geolocation data on 5 minutes interval.
 The whole dataset size is appoaching 30 TB and increasing on 15GB of compressed
-data on daily basis. 
-
+data on daily basis.
