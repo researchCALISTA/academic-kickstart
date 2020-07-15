@@ -28,14 +28,13 @@ image:
 projects: []
 ---
 
-
+<!--
 We possess a unique dataset currently consisting of about 100.000
 mobile (77 thousands of 3G and 23 thosands 4G) antennas,
-yielding approximately 10000 spatially separated  masts.
+yielding approximately 10000 spatially separated  masts. -->
 
 We also know "the history of antennas" and can visualize how the population of
 antennas evolve  in time, providing mobile network coverage to the whole
 country.
 
-{{< figure src="sweden_antennas_coverage.png"  width=400 caption="Mobile antennas 4G(pale blue) and 3G(pale red)  distribution over country"  >}}
-
+<!-- {{< figure src="sweden_antennas_coverage.png"  width=400 caption="Mobile antennas 4G(pale blue) and 3G(pale red)  distribution over country"  >}} -->
