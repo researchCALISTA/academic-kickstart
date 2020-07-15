@@ -2,26 +2,27 @@
 
 
   <div class='container'>
-  <div class='row'>
-    {{ $link := .RelPermalink }}
-    {{ $target := "/about/about" }}
-    {{ with .Params.external_link }}
-      {{ $link = . }}
-      {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
-    {{ end }}
-    <div class='col'>
-      <div class='card text-center  bg-light mb-3 border-primary shadow-none'>
-
-	      {{/* <h2 class="card-title"> {{ .Title }}</h2> */}}
-	      <h2 class="card-title"> <a href={{ .URL |safeHTMLAttr }}>{{ .Title }}</a> </h2> 
-	 <div class="card-body">
-         	<div class="article-style">
-	   		{{ .Content }}
-         	</div>
-        </div>
-      </div>
-    </div>
-  </div>
+     <div class='row'>
+       {{ $link := .RelPermalink }}
+       {{ $target := "/about/about" }}
+       {{ with .Params.external_link }}
+         {{ $link = . }}
+         {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+       {{ end }}
+       <div class='col'>
+         <a class="card-block stretched-link text-decoration-none" href={{ .URL |safeHTMLAttr }}>
+             <div class='card text-center  bg-light mb-3 border-primary shadow-none bg-transparent'>
+   	    <h1 class="card-title"> {{ .Title }}</h1>
+   	      <div class="card-body">
+            	<div class="article-style">
+   	   		{{ .Content }}
+            	</div>
+                 </div>
+             </div>
+         </a>
+       </div>
+       </div>
+     </div>
   </div>
 
 
