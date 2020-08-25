@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor at Department of Social and Economic Geography, Professor vikarie at IBF
+role: Professor at Department of Social and Economic Geography, Professor vikarie at Institute for Housing and Urban Research (Institutet för bostads- och urbanforskning IBF)
 
 # Organizations/Affiliations
 organizations:

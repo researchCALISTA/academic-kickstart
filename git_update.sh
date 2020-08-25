@@ -1,5 +1,8 @@
 # git update
+#on Mac
 cd /Users/lizardie/Dropbox/CODES/Hugo
+#on Windows open GitBash and do:
+cd /d/Dropbox/CODES/Hugo/calista
 ls -lah
 cd calista
 
