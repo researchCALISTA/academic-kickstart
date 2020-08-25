@@ -18,7 +18,7 @@ organizations:
   url: "https://uu.se/"
 
 # Short bio (displayed in user profile at end of posts)
-I am interested in internal migration in Sweden, particulary return migration. The importance of geographical units of data compilation to empirical results is another filed of interest to me. A third area of interest has to do with regional enlargement through extended commuting. A fourth area concerns the development of rural areas.
+bio: I am interested in internal migration in Sweden, particulary return migration. The importance of geographical units of data compilation to empirical results is another filed of interest to me. A third area of interest has to do with regional enlargement through extended commuting. A fourth area concerns the development of rural areas.
 
 interests:
 - internal migration in Sweden
