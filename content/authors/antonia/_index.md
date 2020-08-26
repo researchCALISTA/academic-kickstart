@@ -31,9 +31,9 @@ interests:
 
 education:
   courses:
-  # - course: PhD in Social and Economic Geography
-  #   institution: Uppsala University
-  #   year: 2007
+   - course: PhD in Social and Economic Geography
+     institution: Uppsala University
+     year: 2019-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
