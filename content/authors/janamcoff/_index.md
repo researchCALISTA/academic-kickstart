@@ -10,12 +10,16 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Lecturer/Associate Professor at Department of Social and Economic Geography, Senior Lecturer/Associate Professor at Institute for Housing and Urban Research (Institutet för bostads- och urbanforskning IBF)
+role: Senior Lecturer/Associate Professor at Department of Social and Economic Geography and at IBF
 
 # Organizations/Affiliations
 organizations:
 - name: Uppsala University
   url: "https://uu.se/"
+- name: Department of Social and Economic Geography
+  url: "https://www.kultgeog.uu.se/"
+- name: IBF - Institute for Housing and Urban Research (Institutet för bostads- och urbanforskning)
+  url: "https://www.ibf.uu.se/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in internal migration in Sweden, particulary return migration. The importance of geographical units of data compilation to empirical results is another filed of interest to me. A third area of interest has to do with regional enlargement through extended commuting. A fourth area concerns the development of rural areas.

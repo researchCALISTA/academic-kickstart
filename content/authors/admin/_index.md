@@ -10,12 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher at Department of Social and Economic Geography
+role: Researcher at Department of Social and Economic Geography, guest researcher at Urban Lab, IBF
 
 # Organizations/Affiliations
 organizations:
-- name: Uppsala University
-  url: "https://uu.se/"
+  - name: Uppsala University
+    url: "https://uu.se/"
+  - name: Department of Social and Economic Geography
+    url: "https://www.kultgeog.uu.se/"
+  - name: IBF - Institute for Housing and Urban Research (Institutet för bostads- och urbanforskning)
+    url: "https://www.ibf.uu.se/"
+  - name: Urban Lab, IBF
+    url: "https://urbanlab.ibf.uu.se/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in analysing dynamic urban phenomena, specifically complex interactivity of spatial processes in cities.

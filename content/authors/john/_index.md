@@ -10,12 +10,19 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor at Department of Social and Economic Geography, Professor vikarie at Institute for Housing and Urban Research (Institutet för bostads- och urbanforskning IBF)
+role: Professor at Department of Social and Economic Geography, Professor vikarie at Urban Lab, IBF
 
 # Organizations/Affiliations
 organizations:
-- name: Uppsala University
-  url: "https://uu.se/"
+  - name: Uppsala University
+    url: "https://uu.se/"
+  - name: Department of Social and Economic Geography
+    url: "https://www.kultgeog.uu.se/"
+  - name: IBF - Institute for Housing and Urban Research (Institutet för bostads- och urbanforskning)
+    url: "https://www.ibf.uu.se/"
+  - name: Urban Lab, IBF
+    url: "https://urbanlab.ibf.uu.se/"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My primary research interest is oriented towards Spatial Analysis and GIS, software development and quantitative analysis in population and economic geography with special focus on demography and migration, school choice and labour market opportunities, and more recently also the geography of human interaction on the Internet and through mobile phone usage.
