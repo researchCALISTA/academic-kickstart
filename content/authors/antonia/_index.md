@@ -27,7 +27,10 @@ organizations:
 bio:
 
 interests:
-# -
+ - Spatial analysis
+ - big data
+ - remote sensing
+ - GIS
 
 education:
   courses:
@@ -72,4 +75,4 @@ user_groups:
 #- Grad Students
 # - Visitors
 ---
-I am interested in working with big data.
+Having a background in remote sensing, I am interessted in spaital patterns of all sorts. Espacially interested am I in social and economic seggregation and other forms of sociatal issues. Working with big data, offers me the oppertunity to awnser questions concerning these topics. 
