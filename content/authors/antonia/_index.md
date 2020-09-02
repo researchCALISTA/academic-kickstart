@@ -53,9 +53,9 @@ social:
 # - icon: orcid
 #   icon_pack: ai
 #   link: http://orcid.org/0000-0002-4536-9229
-# - icon: researchgate
-#   icon-pack: ai
-#   link: https://www.kultgeog.uu.se/kontakt/personal/John_Osth/
+ - icon: researchgate
+   icon-pack: ai
+   link: https://www.researchgate.net/profile/Antonia_Degen
 # - icon: anchor
 #   icon_pack: fas
 #   link: https://www.kultgeog.uu.se/kontakt/personal/John_Osth/
