@@ -11,6 +11,7 @@ git pull origin master
 git status ; git add .  ; git commit -m "dvlp website `date`" ; git push origin master
 
 
+
 #git config --local credential.helper ""
 
 
@@ -30,3 +31,8 @@ git status ; git add .  ; git commit -m "dvlp website `date`" ; git push origin 
 # pwd
 # /Users/lizardie/Dropbox/CODES/Hugo/calista
 # git commit -m "add incl themes repo "
+
+git status ; git add .  ;
+git commit -m "
+
+git push origin master
